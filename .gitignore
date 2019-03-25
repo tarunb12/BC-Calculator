@@ -1,0 +1,12 @@
+# Excludes Executable (file w/o extension)
+*
+!*.*
+!*/
+
+*.cmi
+*.cmo
+*.log
+*.cache
+
+.DS_Store
+_build
